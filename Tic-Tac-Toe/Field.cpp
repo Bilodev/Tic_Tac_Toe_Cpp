@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 class Field{
-    
     public:
         char field[3][3] = {
         '.', '.', '.',
